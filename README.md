@@ -1,1 +1,1 @@
-# AI-Powered-Fraud-Detection-IBM-AISkillsBuild
+# AI Powered Fraud Detection
